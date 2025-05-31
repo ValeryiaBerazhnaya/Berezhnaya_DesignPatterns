@@ -1,0 +1,14 @@
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.exe
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.deps.json
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.runtimeconfig.json
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.dll
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.pdb
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.AssemblyInfoInputs.cache
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.AssemblyInfo.cs
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.csproj.CoreCompileInputs.cache
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.dll
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\obj\Debug\net8.0\refint\Behavioral.dll
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.pdb
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.genruntimeconfig.cache
+D:\ESDE\2\Patterns\LB3\Behavioral\Behavioral\obj\Debug\net8.0\ref\Behavioral.dll
