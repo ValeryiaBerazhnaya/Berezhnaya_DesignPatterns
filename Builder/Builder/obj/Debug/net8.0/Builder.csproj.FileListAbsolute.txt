@@ -1,0 +1,15 @@
+D:\ESDE\2\Patterns\LB1\Builder\Builder\bin\Debug\net8.0\Builder.exe
+D:\ESDE\2\Patterns\LB1\Builder\Builder\bin\Debug\net8.0\Builder.deps.json
+D:\ESDE\2\Patterns\LB1\Builder\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+D:\ESDE\2\Patterns\LB1\Builder\Builder\bin\Debug\net8.0\Builder.dll
+D:\ESDE\2\Patterns\LB1\Builder\Builder\bin\Debug\net8.0\Builder.pdb
+D:\ESDE\2\Patterns\LB1\Builder\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESDE\2\Patterns\LB1\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+D:\ESDE\2\Patterns\LB1\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+D:\ESDE\2\Patterns\LB1\Builder\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+D:\ESDE\2\Patterns\LB1\Builder\Builder\obj\Debug\net8.0\Builder.dll
+D:\ESDE\2\Patterns\LB1\Builder\Builder\obj\Debug\net8.0\refint\Builder.dll
+D:\ESDE\2\Patterns\LB1\Builder\Builder\obj\Debug\net8.0\Builder.pdb
+D:\ESDE\2\Patterns\LB1\Builder\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+D:\ESDE\2\Patterns\LB1\Builder\Builder\obj\Debug\net8.0\ref\Builder.dll
+D:\ESDE\2\Patterns\LB1\Builder\Builder\obj\Debug\net8.0\Builder.sourcelink.json
