@@ -1,0 +1,14 @@
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\bin\Debug\net8.0\SOLID.exe
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\bin\Debug\net8.0\SOLID.deps.json
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\bin\Debug\net8.0\SOLID.runtimeconfig.json
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\bin\Debug\net8.0\SOLID.dll
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\bin\Debug\net8.0\SOLID.pdb
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\obj\Debug\net8.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfoInputs.cache
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfo.cs
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\obj\Debug\net8.0\SOLID.csproj.CoreCompileInputs.cache
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\obj\Debug\net8.0\SOLID.dll
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\obj\Debug\net8.0\refint\SOLID.dll
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\obj\Debug\net8.0\SOLID.pdb
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\obj\Debug\net8.0\SOLID.genruntimeconfig.cache
+D:\ESDE\2\Patterns\LB4\SOLID\SOLID\obj\Debug\net8.0\ref\SOLID.dll
